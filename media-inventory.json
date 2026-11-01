@@ -1,0 +1,34 @@
+[
+  {
+    "id": "original-gather-art",
+    "path": "gather-art.svg",
+    "origin": "Original vector illustration authored for this design proposal",
+    "licensed": "original project asset; see handover contract",
+    "represents_actual_ashavin": false,
+    "approval": "concept only"
+  },
+  {
+    "id": "original-space-art",
+    "path": "space-art.svg",
+    "origin": "Original vector illustration authored for this design proposal",
+    "licensed": "original project asset; see handover contract",
+    "represents_actual_ashavin": false,
+    "approval": "concept only"
+  },
+  {
+    "id": "original-vip-art",
+    "path": "vip-art.svg",
+    "origin": "Original vector illustration authored for this design proposal",
+    "licensed": "original project asset; see handover contract",
+    "represents_actual_ashavin": false,
+    "approval": "concept only"
+  },
+  {
+    "id": "original-coffee-art",
+    "path": "coffee-art.svg",
+    "origin": "Original vector illustration authored for this design proposal",
+    "licensed": "original project asset; see handover contract",
+    "represents_actual_ashavin": false,
+    "approval": "concept only"
+  }
+]

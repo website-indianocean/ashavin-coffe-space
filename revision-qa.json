@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-28",
+  "staticChecks": {
+    "htmlFileCount": 18,
+    "jsSyntax": "PASS",
+    "jsonParsing": "PASS",
+    "relativeResourceReferences": "PASS",
+    "duplicateIds": "PASS",
+    "removedRequestedCopy": "PASS",
+    "floatingButtonsOnAllPages": "PASS",
+    "galleryDataCount": 9,
+    "menuEntryCount": 66,
+    "screenshotRendering": "BLOCKED",
+    "lighthouse": "NOT_TESTED",
+    "liveExternalIntegrations": "NOT_TESTED"
+  },
+  "blockedReason": "Chromium navigation to local HTTP and file paths failed with net::ERR_BLOCKED_BY_ADMINISTRATOR; browser-based visual/functional audit was not possible."
+}

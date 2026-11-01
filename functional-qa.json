@@ -1,0 +1,546 @@
+{
+  "date": "2026-10-28",
+  "environment": "Static parser, Node 22 syntax checker, XML/JSON validation. Browser blocked by policy.",
+  "tests": [
+    {
+      "test": "HTML document, H1, main, title, meta: 404.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: 404.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: 404.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: 404.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: about.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: about.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: about.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: about.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: community.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: community.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: community.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: community.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: contact.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: contact.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: contact.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: contact.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: event.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: event.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: event.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: event.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Dynamic event insertion point: event.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: events.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: events.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: events.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: events.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Dynamic event insertion point: events.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: faq.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: faq.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: faq.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: faq.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: gallery.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: gallery.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: gallery.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: gallery.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: index.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: index.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: index.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: index.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: menu.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: menu.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: menu.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: menu.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: order.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: order.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: order.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: order.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: privacy.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: privacy.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: privacy.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: privacy.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: reservations.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: reservations.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: reservations.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: reservations.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: reviews.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: reviews.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: reviews.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: reviews.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: spaces.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: spaces.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: spaces.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: spaces.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: terms.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: terms.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: terms.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: terms.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: vip-room.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: vip-room.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: vip-room.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: vip-room.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "HTML document, H1, main, title, meta: visit.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Relative links and assets: visit.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No duplicate IDs: visit.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Navigation and footer: visit.html",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: animations.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: events.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: forms.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: gallery.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: main.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: menu.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: navigation.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: ordering.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: reservations.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "JavaScript parse: utilities.js",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: business.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: configuration.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: events.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: faqs.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: gallery.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: menu.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: business-profile.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: media-inventory.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: menu-inventory.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid JSON: source-registry.json",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid XML SVG: coffee-art.svg",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid XML SVG: gather-art.svg",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid XML SVG: space-art.svg",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid XML SVG: vip-art.svg",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid XML SVG: favicon.svg",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Valid sitemap XML",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "All menu prices unspecified without verification",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "No invented upcoming events",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Official WhatsApp number used",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Original illustrations explicitly labeled",
+      "status": "PASS",
+      "notes": ""
+    },
+    {
+      "test": "Actual visual browser QA",
+      "status": "BLOCKED",
+      "notes": "Chromium and Playwright navigations returned ERR_BLOCKED_BY_ADMINISTRATOR even for localhost, file, and data URLs."
+    },
+    {
+      "test": "Lighthouse or live Core Web Vitals",
+      "status": "NOT TESTED",
+      "notes": "Live performance audits not possible in this environment."
+    },
+    {
+      "test": "Actual WhatsApp handoff and GrabFood acceptance",
+      "status": "NOT TESTED",
+      "notes": "Outbound third-party app flows cannot be confirmed without user interaction and provider access."
+    },
+    {
+      "test": "Official photography authorization",
+      "status": "BLOCKED",
+      "notes": "Client assets and usage permission not provided; original illustrations used with explicit labels."
+    }
+  ]
+}

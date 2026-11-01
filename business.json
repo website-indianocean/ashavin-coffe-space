@@ -1,0 +1,32 @@
+{
+  "name": "Ashavin Coffee Space",
+  "tagline": "More Than Just Coffee, It’s Your Space.",
+  "address": "Jl. Bhayangkara No.33, Banyudono, Kec. Ponorogo, Kabupaten Ponorogo, Jawa Timur 63411, Indonesia",
+  "shortAddress": "Jl. Bhayangkara No.33, Banyudono, Ponorogo",
+  "city": "Ponorogo",
+  "region": "Jawa Timur",
+  "postalCode": "63411",
+  "country": "ID",
+  "phoneDisplay": "0851-7954-5689",
+  "phoneE164": "+6285179545689",
+  "whatsapp": "6285179545689",
+  "hoursLabel": "Buka 24 jam, setiap hari",
+  "opens24Hours": true,
+  "instagram": "https://www.instagram.com/ashavincoffeespace/",
+  "tiktok": "https://www.tiktok.com/@ashavincoffeespace",
+  "maps": "https://maps.app.goo.gl/w7GeMsiisAmoSN81A",
+  "grabfood": "https://food.grab.com/id/id/restaurant/ashavin-coffee-space-banyudono-delivery/6-C7VAVPUZDEUWEN",
+  "vip": {
+    "capacity": "sekitar 10–15 orang",
+    "facilities": [
+      "Ruangan privat",
+      "AC",
+      "Karaoke"
+    ],
+    "availability": "by_enquiry"
+  },
+  "onlineOrderStatus": "closed_on_official_website",
+  "source": "https://ashavincoffeespace.com/",
+  "verifiedAt": "2026-10-28",
+  "mediaActualVenue": false
+}

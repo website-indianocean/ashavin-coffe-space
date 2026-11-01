@@ -1,0 +1,14 @@
+{
+  "original_stylesheets": [
+    "v4-foundation.css",
+    "v4-design.css",
+    "v5-luxury.css",
+    "v6-refinement.css",
+    "v7-premium.css"
+  ],
+  "total_declarations": 2800,
+  "exact_conflicts_removed": 404,
+  "remaining_declarations": 2396,
+  "output": "site.css",
+  "remaining_important": 97
+}

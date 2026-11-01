@@ -1,0 +1,15 @@
+{
+  "name": "Ashavin Coffee Space",
+  "short_name": "Ashavin",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0806",
+  "theme_color": "#0A0806",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}

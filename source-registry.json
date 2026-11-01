@@ -1,0 +1,97 @@
+[
+  {
+    "id": "SRC001",
+    "name": "Situs resmi Ashavin Coffee Space",
+    "url": "https://ashavincoffeespace.com/",
+    "tier": "official_business_site",
+    "access": "public page text accessible",
+    "retrievedAt": "2026-10-28",
+    "usage": "facts_and_short_paraphrase_only",
+    "notes": "Single-page visible content; no comprehensive structured menu-price extraction available."
+  },
+  {
+    "id": "SRC002",
+    "name": "Google Maps listing via structured local search",
+    "url": "https://maps.app.goo.gl/w7GeMsiisAmoSN81A",
+    "tier": "business_listing",
+    "access": "public listing summary",
+    "retrievedAt": "2026-10-28",
+    "usage": "business metadata only",
+    "notes": "Rating/review count differs from text on official site; dynamic metrics deliberately not embedded."
+  },
+  {
+    "id": "SRC003",
+    "name": "Restaurant Guru Ashavin listing",
+    "url": "https://restaurantguru.com/Ashavin-Coffee-Space-Ponorogo",
+    "tier": "secondary",
+    "access": "public page text",
+    "retrievedAt": "2026-10-28",
+    "usage": "summarized review themes only",
+    "notes": "May be stale; some unfavorable individual anecdotes cannot be treated as general findings."
+  },
+  {
+    "id": "SRC004",
+    "name": "Official Instagram linked by Ashavin",
+    "url": "https://www.instagram.com/ashavincoffeespace/",
+    "tier": "official_social",
+    "access": "link confirmed, post contents unavailable/throttled",
+    "retrievedAt": "2026-10-28",
+    "usage": "outbound link only",
+    "notes": "No posts, followers, copyrighted imagery, or promos were imported."
+  },
+  {
+    "id": "SRC005",
+    "name": "GrabFood linked by Ashavin",
+    "url": "https://food.grab.com/id/id/restaurant/ashavin-coffee-space-banyudono-delivery/6-C7VAVPUZDEUWEN",
+    "tier": "officially_linked_partner",
+    "access": "link confirmed, provider access returned 403",
+    "retrievedAt": "2026-10-28",
+    "usage": "outbound link only",
+    "notes": "Cannot verify that merchant is accepting orders now."
+  },
+  {
+    "id": "SRC006",
+    "name": "Saat Seduh Coffee Ponorogo public Maps listing",
+    "url": "https://www.google.com/maps/search/?api=1&query=Saat+Seduh+Coffee+Ponorogo",
+    "tier": "competitor_listing",
+    "access": "structured local listing",
+    "retrievedAt": "2026-10-28",
+    "usage": "competitive benchmark only"
+  },
+  {
+    "id": "SRC007",
+    "name": "RedGo Cafe and Meeting Rooms listing",
+    "url": "https://www.google.com/maps/search/?api=1&query=RedGo+Cafe+and+Meeting+Rooms+Ponorogo",
+    "tier": "competitor_listing",
+    "access": "structured local listing",
+    "retrievedAt": "2026-10-28",
+    "usage": "competitive benchmark only"
+  },
+  {
+    "id": "SRC008",
+    "name": "Ottys Cafe listing",
+    "url": "https://www.google.com/maps/search/?api=1&query=Ottys+Cafe+Ponorogo",
+    "tier": "competitor_listing",
+    "access": "structured local listing",
+    "retrievedAt": "2026-10-28",
+    "usage": "competitive benchmark only"
+  },
+  {
+    "id": "SRC009",
+    "name": "Wijsoen Coffee House listing",
+    "url": "https://www.google.com/maps/search/?api=1&query=Wijsoen+Coffee+House+Ponorogo",
+    "tier": "competitor_listing",
+    "access": "structured local listing",
+    "retrievedAt": "2026-10-28",
+    "usage": "competitive benchmark only"
+  },
+  {
+    "id": "SRC010",
+    "name": "Vulcan Flow listing",
+    "url": "https://www.google.com/maps/search/?api=1&query=Vulcan+Flow+Ponorogo",
+    "tier": "competitor_listing",
+    "access": "structured local listing",
+    "retrievedAt": "2026-10-28",
+    "usage": "competitive benchmark only"
+  }
+]

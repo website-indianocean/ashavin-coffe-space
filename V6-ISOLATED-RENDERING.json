@@ -1,0 +1,212 @@
+[
+  {
+    "page": "index",
+    "width": 390,
+    "window": 390,
+    "docScroll": 390,
+    "footer": {
+      "top": "68px",
+      "bottom": "68px"
+    },
+    "hero": null,
+    "feature": [
+      {
+        "tag": "SMALL",
+        "y": 7365.078125,
+        "bottom": 7379.578125
+      },
+      {
+        "tag": "STRONG",
+        "y": 7391.578125,
+        "bottom": 7428.765625
+      },
+      {
+        "tag": "SPAN",
+        "y": 7443.765625,
+        "bottom": 7461.765625
+      }
+    ],
+    "formLabel": null,
+    "formBorder": null,
+    "selectBorder": null,
+    "menuCards": 0
+  },
+  {
+    "page": "index",
+    "width": 980,
+    "window": 980,
+    "docScroll": 980,
+    "footer": {
+      "top": "78.4px",
+      "bottom": "78.4px"
+    },
+    "hero": null,
+    "feature": [
+      {
+        "tag": "SMALL",
+        "y": 5950.640625,
+        "bottom": 5965.140625
+      },
+      {
+        "tag": "STRONG",
+        "y": 5978.859375,
+        "bottom": 6012.765625
+      },
+      {
+        "tag": "SPAN",
+        "y": 6027.453125,
+        "bottom": 6046.953125
+      }
+    ],
+    "formLabel": null,
+    "formBorder": null,
+    "selectBorder": null,
+    "menuCards": 0
+  },
+  {
+    "page": "index",
+    "width": 1440,
+    "window": 1440,
+    "docScroll": 1440,
+    "footer": {
+      "top": "115.2px",
+      "bottom": "115.2px"
+    },
+    "hero": null,
+    "feature": [
+      {
+        "tag": "SMALL",
+        "y": 8082.5,
+        "bottom": 8097
+      },
+      {
+        "tag": "STRONG",
+        "y": 8116,
+        "bottom": 8161.78125
+      },
+      {
+        "tag": "SPAN",
+        "y": 8183.375,
+        "bottom": 8202.875
+      }
+    ],
+    "formLabel": null,
+    "formBorder": null,
+    "selectBorder": null,
+    "menuCards": 0
+  },
+  {
+    "page": "menu",
+    "width": 390,
+    "window": 390,
+    "docScroll": 390,
+    "footer": {
+      "top": "68px",
+      "bottom": "68px"
+    },
+    "hero": {
+      "left": 0,
+      "right": 390
+    },
+    "feature": null,
+    "formLabel": null,
+    "formBorder": null,
+    "selectBorder": null,
+    "menuCards": 9
+  },
+  {
+    "page": "menu",
+    "width": 980,
+    "window": 980,
+    "docScroll": 980,
+    "footer": {
+      "top": "78.4px",
+      "bottom": "78.4px"
+    },
+    "hero": {
+      "left": 0,
+      "right": 980
+    },
+    "feature": null,
+    "formLabel": null,
+    "formBorder": null,
+    "selectBorder": null,
+    "menuCards": 9
+  },
+  {
+    "page": "menu",
+    "width": 1440,
+    "window": 1440,
+    "docScroll": 1440,
+    "footer": {
+      "top": "115.2px",
+      "bottom": "115.2px"
+    },
+    "hero": {
+      "left": 0,
+      "right": 1440
+    },
+    "feature": null,
+    "formLabel": null,
+    "formBorder": null,
+    "selectBorder": null,
+    "menuCards": 9
+  },
+  {
+    "page": "vip-room",
+    "width": 390,
+    "window": 390,
+    "docScroll": 390,
+    "footer": {
+      "top": "68px",
+      "bottom": "68px"
+    },
+    "hero": {
+      "left": 0,
+      "right": 390
+    },
+    "feature": null,
+    "formLabel": "Nama lengkap\n*",
+    "formBorder": "rgba(233, 182, 138, 0.28)",
+    "selectBorder": "rgba(233, 182, 138, 0.28)",
+    "menuCards": 0
+  },
+  {
+    "page": "vip-room",
+    "width": 980,
+    "window": 980,
+    "docScroll": 980,
+    "footer": {
+      "top": "78.4px",
+      "bottom": "78.4px"
+    },
+    "hero": {
+      "left": 0,
+      "right": 980
+    },
+    "feature": null,
+    "formLabel": "Nama lengkap\n*",
+    "formBorder": "rgba(233, 182, 138, 0.28)",
+    "selectBorder": "rgba(233, 182, 138, 0.28)",
+    "menuCards": 0
+  },
+  {
+    "page": "vip-room",
+    "width": 1440,
+    "window": 1440,
+    "docScroll": 1440,
+    "footer": {
+      "top": "115.2px",
+      "bottom": "115.2px"
+    },
+    "hero": {
+      "left": 0,
+      "right": 1440
+    },
+    "feature": null,
+    "formLabel": "Nama lengkap\n*",
+    "formBorder": "rgba(233, 182, 138, 0.28)",
+    "selectBorder": "rgba(233, 182, 138, 0.28)",
+    "menuCards": 0
+  }
+]

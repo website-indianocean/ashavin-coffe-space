@@ -1,0 +1,82 @@
+[
+  {
+    "id": "new-bar-day",
+    "title": "The Coffee Bar",
+    "category": "Space",
+    "src": "demo-bar-day.webp",
+    "alt": "Foto demo coffee bar dengan espresso machine di ruang modern, bukan foto asli Ashavin",
+    "isActualCafe": false,
+    "isDemo": true,
+    "credit": "Visual fotografi demo untuk ilustrasi desain; bukan dokumentasi Ashavin."
+  },
+  {
+    "id": "new-lounge",
+    "title": "The Lounge",
+    "category": "Space",
+    "src": "demo-lounge-day.webp",
+    "alt": "Foto demo kursi lounge mewah dalam coffee shop, bukan foto asli Ashavin",
+    "isActualCafe": false,
+    "isDemo": true,
+    "credit": "Visual fotografi demo untuk ilustrasi desain; bukan dokumentasi Ashavin."
+  },
+  {
+    "id": "new-bar-evening",
+    "title": "After Hours",
+    "category": "Space",
+    "src": "demo-bar-evening.webp",
+    "alt": "Foto demo area coffee bar pada malam hari, bukan foto asli Ashavin",
+    "isActualCafe": false,
+    "isDemo": true,
+    "credit": "Visual fotografi demo untuk ilustrasi desain; bukan dokumentasi Ashavin."
+  },
+  {
+    "id": "new-private",
+    "title": "A Private Moment",
+    "category": "Space",
+    "src": "demo-private-lounge.webp",
+    "alt": "Foto demo inspirasi ruang VIP dan sofa privat, bukan foto asli Ashavin",
+    "isActualCafe": false,
+    "isDemo": true,
+    "credit": "Visual fotografi demo untuk ilustrasi desain; bukan dokumentasi Ashavin."
+  },
+  {
+    "id": "new-latte",
+    "title": "An Iced Moment",
+    "category": "Coffee",
+    "src": "demo-iced-coffee.webp",
+    "alt": "Foto demo minuman iced coffee berlapis, bukan foto asli Ashavin",
+    "isActualCafe": false,
+    "isDemo": true,
+    "credit": "Visual fotografi demo untuk ilustrasi desain; bukan dokumentasi Ashavin."
+  },
+  {
+    "id": "new-matcha",
+    "title": "Matcha Ritual",
+    "category": "Drinks",
+    "src": "demo-matcha.webp",
+    "alt": "Foto demo latte matcha dengan latte art, bukan foto asli Ashavin",
+    "isActualCafe": false,
+    "isDemo": true,
+    "credit": "Visual fotografi demo untuk ilustrasi desain; bukan dokumentasi Ashavin."
+  },
+  {
+    "id": "new-rice",
+    "title": "From the Kitchen",
+    "category": "Food",
+    "src": "demo-rice-bowl.webp",
+    "alt": "Foto demo makanan nasi ayam panggang, bukan foto asli Ashavin",
+    "isActualCafe": false,
+    "isDemo": true,
+    "credit": "Visual fotografi demo untuk ilustrasi desain; bukan dokumentasi Ashavin."
+  },
+  {
+    "id": "new-platter",
+    "title": "Something to Share",
+    "category": "Food",
+    "src": "demo-platter.webp",
+    "alt": "Foto demo platter berisi kudapan dan kentang goreng, bukan foto asli Ashavin",
+    "isActualCafe": false,
+    "isDemo": true,
+    "credit": "Visual fotografi demo untuk ilustrasi desain; bukan dokumentasi Ashavin."
+  }
+]

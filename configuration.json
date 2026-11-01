@@ -1,0 +1,18 @@
+{
+  "designConcept": "THE ART OF STAYING",
+  "analytics": {
+    "enabled": false,
+    "provider": null
+  },
+  "ownerMediaApproval": false,
+  "requiresOwnerConfirmation": [
+    "Final logo",
+    "Actual Ashavin photo rights",
+    "Latest full menu and prices",
+    "VIP minimum charge",
+    "VIP availability",
+    "Current promotions and events",
+    "Ordering provider status",
+    "Privacy policy final approval"
+  ]
+}
